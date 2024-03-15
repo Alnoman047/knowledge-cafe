@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bnv-1234",
+    "cover": "https://unsplash.com/s/photos/monument",
+    "title": "Unearthing the Lost City of Z",
+    "author": "Indiana Jones",
+    "author_img": "https://www.gettyimages.com/photos/indiana-jones",
+    "posted_date": "2024-03-14",
+    "reading_time": 15,
+    "hashtags": ["history", "adventure", "archaeology"]
+  },
+  {
+    "id": "xyz-5678",
+    "cover": "https://unsplash.com/s/photos/starry-night-sky",
+    "title": "Alien Encounters: Fact or Fiction?",
+    "author": "Dr. Amelia Stargazer",
+    "author_img": "https://science.nasa.gov/missions/hubble/four-successful-women-behind-the-hubble-space-telescopes-achievements/",
+    "posted_date": "2024-03-13",
+    "reading_time": 20,
+    "hashtags": ["science", "space", "aliens"]
+  },
+  {
+    "id": "pqr-9012",
+    "cover": "https://www.istockphoto.com/photos/chef-cooking",
+    "title": "Mastering the Art of Sushi",
+    "author": "Chef Hiro Nakamura",
+    "author_img": "https://www.istockphoto.com/photos/japanese-chef",
+    "posted_date": "2024-03-12",
+    "reading_time": 12,
+    "hashtags": ["food", "cooking", "japan"]
+  },
+  {
+    "id": "def-3456",
+    "cover": "https://unsplash.com/s/photos/robot",
+    "title": "The Rise of Artificial Intelligence",
+    "author": "Dr. Evelyn Turing",
+    "author_img": "https://www.istockphoto.com/photos/scientist-looking-at-computer-screen",
+    "posted_date": "2024-03-11",
+    "reading_time": 25,
+    "hashtags": ["technology", "science", "ai"]
+  },
+  {
+    "id": "ghi-7890",
+    "cover": "https://stock.adobe.com/search?k=jungle",
+    "title": "Into the Amazon Rainforest",
+    "author": "David Attenborough",
+    "author_img": "https://www.imdb.com/name/nm0041003/mediaindex/",
+    "posted_date": "2024-03-10",
+    "reading_time": 18,
+    "hashtags": ["nature", "environment", "wildlife"]
+  }
+]
